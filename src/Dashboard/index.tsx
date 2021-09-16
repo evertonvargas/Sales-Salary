@@ -12,7 +12,7 @@ export function Dashboard({ onOpenNewTransctionsModal }: DashboardProps) {
     <Container>
       <div>
         <button type="button" onClick={onOpenNewTransctionsModal}>
-          Nova transação
+          Novo vendedor
         </button>
       </div>
       <table>
