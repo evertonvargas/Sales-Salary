@@ -9,8 +9,6 @@
 
 Fazer um programa que leia o nome de um vender, seu salário fixo e o total de vendas efetuadas por ele no mês(em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o total a receber no do mês, com duas casas decimais. No final esse vendedor deve ser incluído em um tabela junto com os demais vendedores.
 
-Site: https://sales-salary.vercel.app/
-
 ## :crystal_ball: Tecnologias
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
